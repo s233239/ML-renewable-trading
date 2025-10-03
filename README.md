@@ -4,6 +4,17 @@ This repository contains the work for Assignment 1 of the **Machine Learning for
 
 ---
 
+## 👥 Contributors
+
+This project was developed in collaboration with:  
+
+- [@nic0lew0ng](https://github.com/nic0lew0ng)  
+- [@ZilentKnight](https://github.com/ZilentKnight) *(Albert R. H.)*  
+- [@s233239](https://github.com/s233239) *(zoewr)*  
+- [@MVKA-hub](https://github.com/MVKA-hub)
+
+---
+
 ## 📌 Project Overview
 
 The assignment simulates the role of a wind farm owner aiming to trade energy in the electricity market. It processes **historical wind and climate data** from Bornholm, Denmark, along with day-ahead and balancing market prices, to develop predictive models and optimize trading strategies.
@@ -82,3 +93,4 @@ Two main modeling approaches were implemented:
 - Day-ahead and balancing market data from Danish DK2 market area.
 
 ---
+
